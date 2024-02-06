@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Convolutional Neural Networks
-nav_order: 1
+nav_order: 4
 has_children: false
-parent: Convolutional Neural Network
-grand_parent: Lectures
+parent: Lectures
 permalink: /lectures/CNN/CNN
 ---
 
