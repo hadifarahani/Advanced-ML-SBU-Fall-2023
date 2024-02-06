@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Enhancing Neural Networks
-nav_order: 4
+nav_order: 3
 has_children: false
 parent: Lectures
 permalink: /lectures/Enhancing/Enhancing Neural Networks
