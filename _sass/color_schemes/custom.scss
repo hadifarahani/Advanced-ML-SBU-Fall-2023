@@ -1,0 +1,32 @@
+// custom hacky-ish code
+// .text-green-000
+$green-000: $green-000;  
+
+// custom colors
+$i2-purple: #6858ee;
+$i2-blue: #6f93cd;
+$i2-gold: #d6bfbe;
+
+<<<<<<< HEAD
+$body-background-color: #a7f3ae;
+$sidebar-color: $grey-dk-300;
+=======
+// $body-background-color: $grey-dk-300;
+$sidebar-color: #f5f5ff;
+>>>>>>> 9cdc198422a3a336fc298bc933ad83ed9ec77b1d
+$border-color: $green-300; 
+
+$body-text-color: $grey-lt-300;
+$body-heading-color: $grey-lt-000;
+$nav-child-link-color: $grey-dk-000;
+$search-result-preview-color: $grey-dk-000;
+
+
+$link-color: $green-200;
+$btn-primary-color: $green-200;
+// $base-button-color: $grey-dk-250;
+
+// $code-background-color: $grey-dk-250;
+// $search-background-color: $grey-dk-250;
+// $table-background-color: $grey-dk-250;
+$feedback-color: darken($sidebar-color, 2%); 
