@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # Advanced Machine Learning: Fall '23 @ SBU
 ## Professor Hadi Farahani
-=======
-# Fundamentals of Machine Learning Course
->>>>>>> 9cdc198422a3a336fc298bc933ad83ed9ec77b1d
 
 
 ## Modules:
