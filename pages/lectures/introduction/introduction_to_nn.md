@@ -3,8 +3,7 @@ layout: default
 title: Introduction to Neural Networks
 nav_order: 1
 has_children: false
-parent: Introduction
-grand_parent: Lectures
+parent: Lectures
 permalink: /lectures/introduction/introduction_to_nn
 ---
 
