@@ -2,7 +2,7 @@
 title: Machine Learning
 tagline: CS SBU
 description: Fundamentals of Machine Learning. Spring 2024
-baseurl: '/ML-Fundamentals-Spring-2024' # the subpath of your site, e.g. /blog
+baseurl: '/Advanced-ML-SBU-Fall-2023' # the subpath of your site, e.g. /blog
 url: 'https://hadifarahani.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md",vendor]
 
@@ -14,7 +14,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Repo on GitHub:
-    - 'https://github.com/hadifarahani/ML-Fundamentals-Spring-2024'
+    - 'https://github.com/hadifarahani/Advanced-ML-SBU-Fall-2023'
 footer_content: 
 
 # Collections for website data
